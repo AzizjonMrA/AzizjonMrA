@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AzizjonMrA
 - 👀 I’m interested in ...FullStack Coder
-- 🌱 I’m currently learning ...Pythin Code
+- 🌱 I’m currently learning ...Python Code
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
